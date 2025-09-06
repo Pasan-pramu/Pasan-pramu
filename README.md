@@ -8,14 +8,9 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=pasan24&label=Profile%20views&color=0e75b6&style=flat" alt="pasan24" /> </p>
 
-<!--  ### My Contributions
----
-<img alt="snake eat my contributions" src="https://raw.githubusercontent.com/Pasan24/Pasan24/output/github-contribution-grid-snake.svg" />
-
--->
-
-### My Topics
----
+ 
+### My Topics 👨‍💻
+---  
 - 🔭 I’m can undergraduate from IIT
 
 - 🌱 I’m currently learning **.Net full Stack development**
@@ -27,15 +22,22 @@
 - 📫 How to reach me **pasanpramuditha28@gmail.com**
 
 - ⚡ Fun fact **Knowledge is knowing that a tomato is a fruit , wisdom is not putting it in a fruit salad.**
+<br>
 
-<h3 align="center">Connect with me:</h3>
+ ### My Contributions 🐍
+ ---
+![snake gif](https://github.com/Pasan24/Pasan24/blob/output/github-snake-dark.svg)
+
+<br>
+
+<h3 align="center">Connect with me 🌐</h3>
 <p align="center">
 <a href="https://linkedin.com/in/pasan-pramuditha" target="blank"><img align="center" src="https://github.com/Scar1109/skill-icons/blob/main/icons/LinkedIn.svg" alt="pasan-pramuditha" height="30" width="40" /></a>
   <a href="https://web.facebook.com/pasan.premuditha.1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="pasan pramuditha" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/pramudithapasan1" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/hackerrank.svg" alt="pramudithapasan1" height="30" width="40" /></a>
 </p> <br>
 
-<h3 align="center">Languages and Tools:</h3>
+<h3 align="center">Languages and Tools ⚡</h3>
 <p align="left"> 
 
 
@@ -174,7 +176,7 @@
 </p>
 <br>
 
-### My Statistics
+### My Statistics  📉
 ---
 <!--- stats & Trophy (start) -->
 <p align="center">
@@ -199,7 +201,7 @@
 
 <br>
 
-<h3 align="left">Support </h3>
+<h3 align="left">Support ❤️  </h3>
 
 <p><a href="https://www.buymeacoffee.com/pasanpramuditha"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="pasanpramuditha" /></a></p>
 
