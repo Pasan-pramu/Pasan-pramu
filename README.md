@@ -1,3 +1,4 @@
+<p align="center" ><img  src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 100px></p>
 <h1 align="center">Hi 👋, I'm Pasan Pramuditha</h1>
 <h1 align="center">
   <img
@@ -32,9 +33,9 @@
 
 <h3 align="center">Connect with me 🌐</h3>
 <p align="center">
-<a href="https://linkedin.com/in/pasan-pramuditha" target="blank"><img align="center" src="https://github.com/Scar1109/skill-icons/blob/main/icons/LinkedIn.svg" alt="pasan-pramuditha" height="30" width="40" /></a>
-  <a href="https://web.facebook.com/pasan.premuditha.1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="pasan pramuditha" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/pramudithapasan1" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/hackerrank.svg" alt="pramudithapasan1" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/pasan-pramuditha" target="blank"><img align="center" src="https://github.com/Scar1109/skill-icons/blob/main/icons/LinkedIn.svg" alt="pasan-pramuditha" height="40" width="40" /></a>
+  <a href="https://web.facebook.com/pasan.premuditha.1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="pasan pramuditha" height="40" width="40" /></a>
+<a href="https://www.hackerrank.com/pramudithapasan1" target="blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/hackerrank.svg" alt="pramudithapasan1" height="40" width="40" /></a>
 </p> <br>
 
 <h3 align="center">Languages and Tools ⚡</h3>
@@ -199,7 +200,9 @@
 </table>
 <!--- stats (end) -->
 
-<br>
+---
+
+
 <h3 align="center">Support ❤️</h3>
 <p align="center">
   <a href="https://www.buymeacoffee.com/pasanpramuditha">
