@@ -200,8 +200,10 @@
 <!--- stats (end) -->
 
 <br>
-
-<h3 align="left">Support ❤️  </h3>
-
-<p><a href="https://www.buymeacoffee.com/pasanpramuditha"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="pasanpramuditha" /></a></p>
+<h3 align="center">Support ❤️</h3>
+<p align="center">
+  <a href="https://www.buymeacoffee.com/pasanpramuditha">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="pasanpramuditha" />
+  </a>
+</p>
 
