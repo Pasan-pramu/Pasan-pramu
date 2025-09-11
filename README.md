@@ -27,7 +27,7 @@
 
  ### My Contributions 🐍
  ---
-![snake gif](https://https://github.com/Pasan-pramu/Pasan24/blob/output/github-snake-dark.svg)
+![snake gif](https://github.com/Pasan-pramu/Pasan-pramu/blob/output/github-snake-dark.svg)
 
 <br>
 
