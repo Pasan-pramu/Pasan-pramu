@@ -7,7 +7,7 @@
 </h1>
 
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=pasan24&label=Profile%20views&color=0e75b6&style=flat" alt="pasan24" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=Pasan-pramu&label=Profile%20views&color=0e75b6&style=flat" alt="pasan24" /> </p>
 
  
 ### My Topics 👨‍💻
@@ -27,7 +27,7 @@
 
  ### My Contributions 🐍
  ---
-![snake gif](https://github.com/Pasan24/Pasan24/blob/output/github-snake-dark.svg)
+![snake gif](https://github.com/Pasan-pramu/Pasan-pramu/blob/output/github-snake-dark.svg)
 
 <br>
 
@@ -186,14 +186,14 @@
 <tr border="none">
 <td width="50%" align="center">
   
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=Pasan24&theme=dark&show_icons=true&count_private=true" />
+  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=Pasan-pramu&theme=dark&show_icons=true&count_private=true" />
   <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Pasan24&theme=dark&hide_border=false" /> 
+  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Pasan-pramu&theme=dark&hide_border=false" /> 
 </td>
 
 <td width="50%" align="center">
 
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Pasan24&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Pasan-pramu&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
   
   </td>
 </tr>
