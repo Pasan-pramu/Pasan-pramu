@@ -214,8 +214,8 @@
 
 <h3 align="center">Support ❤️</h3>
 <p align="center">
-  <a href="buymeacoffee.com/PasanPramuditha">
+ <a href="https://buymeacoffee.com/PasanPramuditha">
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="pasanpramuditha" />
-  </a>
+</a>
 </p>
 
