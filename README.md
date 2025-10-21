@@ -171,6 +171,15 @@
   <a href="https://d3js.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js" width="40" height="40"/>
   </a>
+
+  <a href="https://www.php.net/" target="_blank" rel="noreferrer">
+  <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/PHP-Light.svg" alt="php" width="40" height="40"/>
+</a>
+
+<a href="https://laravel.com/" target="_blank" rel="noreferrer">
+  <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Laravel-Dark.svg" alt="laravel" width="40" height="40"/>
+</a>
+
 </p>
 
 
